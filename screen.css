@@ -57,25 +57,48 @@ a {
     color: #009ce0; }
 
 #main {
-  padding: 50px; }
+   padding-top: 25px;
+   font-size: 20px;
+   text-align: center;
+   line-height: 2em;
+   height: 100px;
+   margin-bottom: 50px;
+   }
+  
+ 
 
   h1{
 font-size: 30px;
 color: #415A77; }
 
 p {
-  Font-size: 18px
-  color: #1B263B; }
+  Font-size: 18px;
+  font-color: #1B263B; }
+  
+  
  #mainContent{
 	 text-align: center;
-	 padding-top: 30px;
 	 font-size: 25px;
-	 
+	 margin-top: 50px;
+
  } 
+/* Styling for Nav Menu Work in Progress */
+/* #mainNav{ */
+	/* width: 400px; */
+	/* border: 5px solid black; */
+/* }   */
   
-  
-  
-  
+ /* #mainNav, ul{ */
+	 /* float: right; */
+     /* text-decoration: none; */
+	 /* width: 100px; */
+	 /* height: 100%; */
+	 /* margin-bottom: 20px; */
+ /* }  */
+ /* #mainNav, li{ */
+		 /* display: inline-block;  */
+		 	 /* width: 100px; */
+ /* } */
   
   
   
