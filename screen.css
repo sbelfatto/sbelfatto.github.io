@@ -82,6 +82,10 @@ p {
 	 margin-top: 50px;
 
  } 
+ #scratchGames{
+	 text-align: center;
+	 line-height: 2em;
+ }
 /* Styling for Nav Menu Work in Progress */
 /* #mainNav{ */
 	/* width: 400px; */
