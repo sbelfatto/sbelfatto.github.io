@@ -82,9 +82,21 @@ p {
 	 margin-top: 50px;
 
  } 
- #scratchGames{
+ #scratchText{
 	 text-align: center;
 	 line-height: 2em;
+	 clear: all;
+	 margin-top: 600px;
+ }
+ #scratchGame1, #scratchGame2, #scratchGame3{
+	 width: 500px;
+	 height: 450px;
+	 float: left;
+	 margin: 60px;
+	 
+ }
+ #scratchH1{
+	 text-align: center;
  }
 /* Styling for Nav Menu Work in Progress */
 /* #mainNav{ */
