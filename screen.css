@@ -70,6 +70,13 @@ a {
   h1{
 font-size: 30px;
 color: #415A77; }
+h2{
+	font-size: 25px;
+}
+h3{
+	font-size: 20px;
+	font-weight: bold;
+}
 
 p {
   Font-size: 18px;
@@ -97,6 +104,11 @@ p {
  }
  #scratchH1{
 	 text-align: center;
+ }
+ #dreamAnswers{
+	 text-align: left;
+	 padding-left: 15px;
+	 width: 900px;
  }
 /* Styling for Nav Menu Work in Progress */
 /* #mainNav{ */
