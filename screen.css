@@ -110,6 +110,59 @@ p {
 	 padding-left: 15px;
 	 width: 900px;
  }
+ #uofoImage{
+	 width: 550px;
+	 heigh:350px; 
+	 float: right;
+	 position: relative;
+ }
+#uofomain{
+	width: 1700px;
+	height: 1000 px;
+	text-align: left;
+	padding-bottom: 50px;
+	padding-left: 15px;
+	margin-left: 50px;
+	
+}
+#uofomain h1{
+	text-align: center;
+}
+#uofomain li{
+	font-size: 18px;
+	line-height: 1.2em;	
+}
+#uofomain p{
+	line-height: 1.5em;
+}
+ #osuImage{
+	 width: 550px;
+	 heigh:350px; 
+	 float: left;
+	 padding-right:600px;
+	 position: relative;
+ }
+#osumain{
+	width: 1700px;
+	height: 1000 px;
+	text-align: left;
+	padding-bottom: 50px;
+	padding-left: 15px;
+	margin-left: 50px;
+	
+}
+#osumain h1{
+	text-align: center;
+}
+#osumain li{
+	font-size: 18px;
+	line-height: 1.2em;	
+}
+#osumain p{
+	line-height: 1.5em;
+}
+
+
 /* Styling for Nav Menu Work in Progress */
 /* #mainNav{ */
 	/* width: 400px; */
